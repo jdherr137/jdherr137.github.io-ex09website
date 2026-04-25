@@ -21,13 +21,13 @@
 title: Comp 110 EX09 Website
 email: jdherr@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Our project looks at whether students with little to no coding experience 
+  benefit from more tutoring hours and effective small group tutoring sessions. 
+  We want to see if tutoring helps them better understand 
+  course material and improve performance. 
 baseurl: "/ex09website" # the subpath of your site, e.g. /blog
 url: "http://jdherr137.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  jdherr137
 
 # Build settings
 # Build settings
